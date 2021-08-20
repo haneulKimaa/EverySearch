@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073842660873",
+    "firebase_url": "https://everysearch1-e1ae1.firebaseio.com",
+    "project_id": "everysearch1-e1ae1",
+    "storage_bucket": "everysearch1-e1ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073842660873:android:4a131183b1fb1b3c76bad8",
+        "android_client_info": {
+          "package_name": "com.example.everysearch1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073842660873-as6b400cf8mdnvh51trlfgq7oao21a2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.everysearch1",
+            "certificate_hash": "5ec3e1663b0cbc45a1474db50fbabe3fe51cf5d3"
+          }
+        },
+        {
+          "client_id": "1073842660873-lkl2e2snufrmccaasqeat329nj2isis8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTKY3n9Iatk1MaM5WAvWnz0EP5c5xASyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073842660873-lkl2e2snufrmccaasqeat329nj2isis8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
